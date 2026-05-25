@@ -195,41 +195,37 @@ streamlit run app.py
 
 ## Login Page
 
-```md
-<img src="images/login.png" width="800"/>
-```
+![Login Page](images/login.png)
 
 ---
 
 ## Register Page
 
-```md
-![Register Page](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/register.png)
-```
+![Register Page](images/register.png)
+
 
 ---
 
 ## Client Dashboard
 
-```md
-![Client Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/client_dashboard.png)
-```
+![Client Dashboard](images/client_dashboard.png)
+
 
 ---
 
 ## Support Dashboard
 
-```md
-![Support Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/support_dashboard.png)
-```
+
+![Support Dashboard](images/support_dashboard.png)
+
 
 ---
 
 ## Analytics Dashboard
 
-```md
-![Analytics Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/analytics.png)
-```
+
+![Analytics Dashboard](images/analytics.png)
+
 
 ---
 
