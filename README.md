@@ -195,10 +195,8 @@ streamlit run app.py
 
 ## Login Page
 
-Add screenshot here:
-
 ```md
-![Login Page](images/login.png)
+![Login Page](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/login.png)
 ```
 
 ---
@@ -206,7 +204,7 @@ Add screenshot here:
 ## Register Page
 
 ```md
-![Register Page](images/register.png)
+![Register Page](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/register.png)
 ```
 
 ---
@@ -214,7 +212,7 @@ Add screenshot here:
 ## Client Dashboard
 
 ```md
-![Client Dashboard](images/client_dashboard.png)
+![Client Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/client_dashboard.png)
 ```
 
 ---
@@ -222,7 +220,7 @@ Add screenshot here:
 ## Support Dashboard
 
 ```md
-![Support Dashboard](images/support_dashboard.png)
+![Support Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/support_dashboard.png)
 ```
 
 ---
@@ -230,21 +228,8 @@ Add screenshot here:
 ## Analytics Dashboard
 
 ```md
-![Analytics Dashboard](images/analytics.png)
+![Analytics Dashboard](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/analytics.png)
 ```
-
----
-
-# Future Improvements
-
-- Query Priority Levels
-- Query Categories
-- Client Query Tracking
-- Export to CSV
-- Advanced Analytics
-- Email Notifications
-- Search Functionality
-- Admin Dashboard
 
 ---
 
