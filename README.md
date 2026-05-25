@@ -196,7 +196,7 @@ streamlit run app.py
 ## Login Page
 
 ```md
-![Login Page](https://github.com/dineshkumar2029/client_query_management_system/blob/main/images/login.png)
+<img src="images/login.png" width="800"/>
 ```
 
 ---
